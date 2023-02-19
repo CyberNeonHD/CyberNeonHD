@@ -1,2 +1,2 @@
-- 👋 Hi, I’m Ethical
+- 👋 Hi, I’m CyberNeon
 - 👀 I’m interested in programming and Cyber Security
