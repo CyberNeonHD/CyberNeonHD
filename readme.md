@@ -1,2 +1,3 @@
 - 👋 Hi, I’m CyberNeon
 - 👀 I’m interested in programming and Cyber Security
+- I also love FOSS and have my own server to go crazy on
